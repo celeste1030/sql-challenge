@@ -1,3 +1,3 @@
 # sql-challenge
 
-![alt text](employee_stamp.png)
+![alt text](Images/employee_stamp.jpg)
