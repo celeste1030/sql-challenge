@@ -13,6 +13,10 @@ In this scenario, I'm an analyst at Pewlett Hackard.  My latest assignment is to
 	
 ## Objectives
 
+1) Data Modeling
+
+![alt text](ERD_employees.png)
+
 
 
 ## Technologies
