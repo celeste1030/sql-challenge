@@ -19,11 +19,11 @@ In this scenario, I'm an analyst at Pewlett Hackard.  My latest assignment is to
 
 2) Data Engineering
 
-I created a [schema](schema_empl.sql) to create tables for the data.
+	This is the [schema](schema_empl.sql) I used to create tables for the data.
 
 3) Data Analysis
 
-I used these [queries](query_analysis.sql) to analyze the tables I created.
+	I used these [queries](query_analysis.sql) to analyze the tables I created.
 
 
 Bonus Analysis:
