@@ -11,6 +11,8 @@
 
 In this scenario, I'm an analyst at Pewlett Hackard.  My latest assignment is to analyze employee data from 1980's and 1990's.  This data needs some cleaning up and organizing so let's get started!
 	
+## Objectives
+
 1) Data Modeling
 
 ![alt text](ERD_employees.png)
@@ -24,9 +26,13 @@ I created a [schema](schema_empl.sql) to create tables for the data.
 I used these [queries](query_analysis.sql) to analyze the tables I created.
 
 
+Bonus Analysis:
 
 
-## Objectives
+![alt text](Images/avg_salary_bar.png)
+
+![alt text](Images/salary_hist.png)
+
 
 ## Technologies
 
